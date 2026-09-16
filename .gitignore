@@ -1,0 +1,17 @@
+# Entornos y credenciales
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generados
+.DS_Store
+Thumbs.db
+
+# Carpetas de datos (por si se crean volúmenes locales accidentalmente)
+pgadmin_data/
+postgres_data/
